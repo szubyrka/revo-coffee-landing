@@ -39,7 +39,7 @@ A landing page about coffee, showcasing its culture, taste, and atmosphere throu
 ## 📌 Notes
 
 - This project is created solely for educational and demonstration purposes.
-- All images are taken from the [Figma design mockup](https://www.figma.com/file/A0k70v2BgEDGHToBBb9TW9/Сайт-о-горном-спорте?node-id=0%3A1&mode=dev).
+- All images are taken from the [Figma design mockup](https://www.figma.com/file/sKegIQ17VCx3HZNj8pi0k4/Сайт-о-кофе?node-id=0%3A1&mode=dev).
 
 ## 📄 License
 
